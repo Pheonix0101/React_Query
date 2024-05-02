@@ -1,0 +1,67 @@
+#root {
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+/* .products {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.product {
+  padding: 10px;
+  margin: 5px;
+  width: 250px;
+ 
+}
+
+img {
+  width: 250px;
+  height: 320px;
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.myprod{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+img{
+  width: 250px;
+  height: 300px;
+}
+
+.prod{
+  padding: 10px;
+  margin: 5px;
+  width: 300px;
+}
